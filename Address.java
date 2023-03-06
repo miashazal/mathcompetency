@@ -1,4 +1,4 @@
-package com.example.mathcompetencysurvey;
+package com.example.mathcompetency;
 
 public class Address {
     private String street;
