@@ -1,4 +1,4 @@
-package com.example.mathcompetencysurvey;
+package com.example.mathcompetency;
 
 public class Main {
     // Application code
