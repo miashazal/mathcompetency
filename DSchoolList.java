@@ -1,4 +1,4 @@
-package com.example.mathcompetencysurvey;
+package com.example.mathcompetency;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 
@@ -20,11 +20,11 @@ public class DSchoolList {
         DSchoolList dl = new DSchoolList();
 
         School sc = new School();
-        sc.setName("St Patrick");
+        sc.setName("Firefield");
         dl.addSchool(sc);
 
         School sc2 = new School();
-        sc2.setName("Woodsville");
+        sc2.setName("Greenwood");
         dl.addSchool(sc2);
 
         dl.display();
